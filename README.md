@@ -4,6 +4,7 @@ author: "Nidhi Jain"
 date: "2023-10-06"
 output: html_document
 ---
+This analysis is done using 'R' programming language
 
 # ASK
 we define the problem and objectives of our case study and its desired outcome.
